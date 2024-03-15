@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BV10 Maze Runner</title>
+</head>
+<body>
+  <h1>All Maze Runner Movies</h1>
+  <p>The Maze Runner</p>
+  <iframe src="https://www.2embed.cc/embed/tt1790864" width="20%" height="100%" frameborder="0" scrolling="no" allowfullscreen></iframe>        
+  
+  <p>Maze Runner: The Scorch Trials</p>
+  <iframe src="https://www.2embed.cc/embed/tt4046784" width="20%" height="100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
+     
+  <p>Maze Runner: The Death Cure</p>
+  <iframe src="https://www.2embed.cc/embed/tt4500922" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</body>
+</html>
